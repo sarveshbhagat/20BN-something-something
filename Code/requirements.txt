@@ -1,0 +1,9 @@
+sklearn
+pillow
+torchvision
+torch
+tensorboardX
+sklearn
+matplotlib
+bokeh
+urllib3
