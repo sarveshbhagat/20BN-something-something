@@ -1,3 +1,6 @@
 # 20BN-something-something
-# Train
- ## Use trains.sh in code folder
+
+# Training
+Use trains.sh in code folder
+# Testing
+Use test.sh in code folder
